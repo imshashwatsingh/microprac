@@ -1,0 +1,1 @@
+WAP to convert 16 bit binary content of AX into 4 digit ASCII character string.

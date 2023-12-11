@@ -1,0 +1,1 @@
+WAP to perform 8 bit addition using 16 bit instruction mode.
